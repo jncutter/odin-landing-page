@@ -72,6 +72,7 @@ h1 {
     font-weight: 18px;
     color: #e5e7eb;
     margin-top: 0;
+    margin-left: 0;
 }
 
 h2 {
@@ -92,11 +93,12 @@ h2 {
 }
 
 .placeholder {
-    height: 180px;
+    height: 15vw;
     width: 15vw;
     border-style: solid;
     border-color: #3882f6;
     border-radius: 8px;
+    margin: 4px;
 }
 
 .info-text {
@@ -152,11 +154,13 @@ h2 {
 h3 {
     color: #f9faf8;
     margin-bottom: 0;
+    margin-left: 8px;
 }
 
 p {
     color: #f9faf8;
     margin-top: 0;
+    margin-left: 8px;
 }
 
 button {
@@ -174,6 +178,7 @@ button {
 .wb {
     border-color: #f9faf8;
     border-style: solid;
+    margin-right: 8px;
 }
 
 .sign-up {
