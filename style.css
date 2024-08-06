@@ -19,7 +19,7 @@ nav {
 
 .logo {
     color: #f9faf8;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     width: 25vw;
 }
@@ -27,7 +27,7 @@ nav {
 ul {
     list-style: none;
     display: flex;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #e5e7eb;
 }
 
@@ -38,7 +38,7 @@ li {
 
 h1 {
     color: #f9faf8;
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: bolder;
     margin-bottom: 0;
 }
@@ -69,14 +69,14 @@ h1 {
 }
 
 .hero-text {
-    font-weight: 18px;
+    font-size: 1.125rem;
     color: #e5e7eb;
     margin-top: 0;
     margin-left: 0;
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-weight: bolder;
     color: #1f2937;
     text-align: center;
@@ -104,7 +104,7 @@ h2 {
 .info-text {
     color: #a0a0a0;
     text-align: center;
-    font-size: 18px;
+    font-size: 1.125rem;
     margin-top: 4px;
 }
 
@@ -120,13 +120,13 @@ h2 {
 .quote {
     color: #1f2937;
     font-style: italic;
-    font-size: 36px;
+    font-size: 2.25rem;
     width: 50vw;
 }
 
 .quoter {
     color: #1f2937;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     margin-left: 350px;
 }
